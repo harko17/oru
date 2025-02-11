@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "447359617320",
+    "project_id": "famus-d22d9",
+    "storage_bucket": "famus-d22d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447359617320:android:44b5b889f2a1c7d1af681d",
+        "android_client_info": {
+          "package_name": "com.example.famus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447359617320-cfoudgrvl19muegigan7vf0puscb0o5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1PZYkVEpXTt6RYF0RRrXceCP8H7sIdqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447359617320-cfoudgrvl19muegigan7vf0puscb0o5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447359617320-i9l7tjqisek9kgv6742373hj275kflrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.famus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447359617320:android:db96df4f09fe0e1baf681d",
+        "android_client_info": {
+          "package_name": "com.example.oru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447359617320-cfoudgrvl19muegigan7vf0puscb0o5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1PZYkVEpXTt6RYF0RRrXceCP8H7sIdqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447359617320-cfoudgrvl19muegigan7vf0puscb0o5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447359617320-i9l7tjqisek9kgv6742373hj275kflrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.famus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
